@@ -1,0 +1,168 @@
+C:\Users\lleka\source\repos\ProductList\ProductList\obj\Debug\ProductList.csprojAssemblyReference.cache
+C:\Users\lleka\source\repos\ProductList\ProductList\obj\Debug\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\ProductList.dll.config
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\ProductList.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\ProductList.pdb
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\csc.exe
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\csc.exe.config
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\csc.rsp
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\csi.exe
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\csi.rsp
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\System.AppContext.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\vbc.exe
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\vbc.exe.config
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\vbc.rsp
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\VBCSCompiler.exe
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\Antlr3.Runtime.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\Newtonsoft.Json.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.Helpers.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.Mvc.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.Optimization.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.Razor.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.WebPages.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.WebPages.Razor.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\WebGrease.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.Helpers.xml
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.Mvc.xml
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.Optimization.xml
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.Razor.xml
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.WebPages.xml
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\System.Web.WebPages.Razor.xml
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\Newtonsoft.Json.xml
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\Antlr3.Runtime.pdb
+C:\Users\lleka\source\repos\ProductList\ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lleka\source\repos\ProductList\ProductList\obj\Debug\ProductList.csproj.CopyComplete
+C:\Users\lleka\source\repos\ProductList\ProductList\obj\Debug\ProductList.dll
+C:\Users\lleka\source\repos\ProductList\ProductList\obj\Debug\ProductList.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\ProductList.dll.config
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\ProductList.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\ProductList.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\csc.exe
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\csc.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\csc.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\csi.exe
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\csi.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\System.AppContext.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\vbc.exe
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\vbc.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\vbc.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\VBCSCompiler.exe
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\Antlr3.Runtime.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\Newtonsoft.Json.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.Helpers.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.Mvc.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.Optimization.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.Razor.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.WebPages.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.WebPages.Razor.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\WebGrease.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.Helpers.xml
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.Mvc.xml
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.Optimization.xml
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.Razor.xml
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.WebPages.xml
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\System.Web.WebPages.Razor.xml
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\Newtonsoft.Json.xml
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\Antlr3.Runtime.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\obj\Debug\ProductList.csprojAssemblyReference.cache
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\obj\Debug\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\obj\Debug\ProductList.csproj.CopyComplete
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\obj\Debug\ProductList.dll
+C:\Users\lleka\Documents\Akademia\Seanca 3\ProductList\ProductList\obj\Debug\ProductList.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\ProductList.dll.config
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\ProductList.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\ProductList.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\csc.exe
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\csc.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\csc.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\csi.exe
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\csi.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\System.AppContext.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\vbc.exe
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\vbc.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\vbc.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\VBCSCompiler.exe
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\Antlr3.Runtime.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\Newtonsoft.Json.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.Helpers.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.Mvc.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.Optimization.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.Razor.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.WebPages.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.WebPages.Razor.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\WebGrease.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.Helpers.xml
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.Mvc.xml
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.Optimization.xml
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.Razor.xml
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.WebPages.xml
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\System.Web.WebPages.Razor.xml
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\Newtonsoft.Json.xml
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\Antlr3.Runtime.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\obj\Debug\ProductList.csprojAssemblyReference.cache
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\obj\Debug\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\obj\Debug\ProductList.csproj.CopyComplete
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\obj\Debug\ProductList.dll
+C:\Users\lleka\Documents\Akademia\Seanca 4\ProductListAssignments\ProductList\obj\Debug\ProductList.pdb
